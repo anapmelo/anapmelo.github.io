@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am as Assistant Professor in the Economics Department at Howard University.
-
-<em> Research areas:</em> economics of education, inequality in opportunity, gender and race.
+I am an Assistant Professor in the Economics Department at Howard University. I am an applied microeconomics researching topics in Economics of Education, Labor and Development Economics, with emphasis in income, gender and race inequality.
 
 <h2>Education</h2>
 
