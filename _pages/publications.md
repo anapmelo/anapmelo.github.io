@@ -17,7 +17,7 @@ author_profile: false
 
 **The Enduring Pursuit of Public Science at US Land Grant Universities**, _with Bradford L. Barham and Jeremy Foltz_ (under review)
       
-This article exploits 4 waves of representative, random-sample survey evidence from agricultural and life science faculty at the 52 major US land grant universities, spanning 1989-2015, to examine faculty attitudes/preferences, tenure and promotion criteria, and funding sources and how the robust and stable alignment of these factors promoted both a continued emphasis on traditional scholarly activities and relatively little shift towards commercialization
+> This article exploits 4 waves of representative, random-sample survey evidence from agricultural and life science faculty at the 52 major US land grant universities, spanning 1989-2015, to examine faculty attitudes/preferences, tenure and promotion criteria, and funding sources and how the robust and stable alignment of these factors promoted both a continued emphasis on traditional scholarly activities and relatively little shift towards commercialization
 
 **Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil**, _with Mizuhiro Suzuki_ (under review)
      
