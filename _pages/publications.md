@@ -8,6 +8,8 @@ author_profile: false
 # Publications
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13014"> **Earnings, Wages, and Poverty Outcomes of US Farm and Low-Skill Workers** </a> (2020), with Bradford L. Barham and Thomas Hertz. _Applied Economic Perspectives & Policy_. 42: 307-334
 
+---
+
 # Working Papers
 **Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities**, _with Bradford L. Barham and Jeremy Foltz_. NBER Working Paper No. 26688 (forthcoming)
 
@@ -32,5 +34,3 @@ This article exploits 4 waves of representative, random-sample survey evidence f
 **Affirmative action and demand for schooling: evidence from nation-wide policies**, _with Ursula Mello_
       
 > We study the effects of AA policies on pre-college incentives to invest in human capital by exploring national affirmative action policies implemented in Brazil. We focus on how high school persistence and demand for college changed as some universities became more accessible to the beneficiary group at the same time as it became more competitive to the non-beneficiaries.
-
-# Work in Progress
