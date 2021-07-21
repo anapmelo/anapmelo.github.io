@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Research"
+title: ""
 permalink: /publications/
 author_profile: false
 ---
 
-# Publications
+# Published
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13014"> **Earnings, Wages, and Poverty Outcomes of US Farm and Low-Skill Workers** </a> (2020), with Bradford L. Barham and Thomas Hertz. _Applied Economic Perspectives & Policy_. 42: 307-334
 
 ---
