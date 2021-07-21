@@ -11,7 +11,7 @@ author_profile: false
 ---
 
 # Working Papers
-**Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities**, _with Bradford L. Barham and Jeremy Foltz_. NBER Working Paper No. 26688 (forthcoming)
+<a href="https://www.nber.org/papers/w26688"> **Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities**</a>, _with Bradford L. Barham and Jeremy Foltz_. NBER Working Paper No. 26688 (forthcoming)
 > This article examines the involvement of agricultural and life science faculty at U.S. land grant universities in two types of university-industry relations, academic engagement (sponsored research, industry collaborations, and presentations), academic commercialization (patenting, licensing, and start-ups), and how it relates to traditional academic scholarship.
 
 **The Enduring Pursuit of Public Science at US Land Grant Universities**, _with Bradford L. Barham and Jeremy Foltz_ (under review)
