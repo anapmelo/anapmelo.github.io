@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="anapmelo.github.io/Files/CV_MELO.pdf" target="_blank">Download CV</a>
+<a href="anapmelo.github.io/files/CV_MELO.pdf" target="_blank">Download CV</a>
