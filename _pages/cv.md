@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="https://anapmelo.github.io/files/CV_Melo.pdf" type="application/pdf" />
+[CV_Melo.pdf](http://anapmelo.github.io/files/CV_Melo.pdf)
