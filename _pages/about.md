@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Economics Department at Howard University. I am an applied microeconomist researching topics in Economics of Education, Labor and Development Economics, with an emphasis in income, gender, and race.
+I am an Assistant Professor in the Economics Department at Howard University. I am an applied microeconomist researching topics in Economics of Education, Labor, and Development Economics, with an emphasis in income, gender, and race.
 
 <h2>Education</h2>
 
