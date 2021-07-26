@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the Economics Department at Howard University. I am an applied microeconomist researching topics in Economics of Education, Labor, and Development Economics, with an emphasis in socioeconomic, gender, and racial inequality.
 
-[CV](http://anapmelo.github.io/files/CV_Melo.pdf)
+[CV](http://anapmelo.github.io/files/main_cv.pdf)
 
 <h2>Education</h2>
 
