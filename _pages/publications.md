@@ -17,7 +17,7 @@ author_profile: false
 **The Enduring Pursuit of Public Science at US Land Grant Universities**, _with Bradford L. Barham and Jeremy Foltz_ (under review)
 > This article exploits 4 waves of representative, random-sample survey evidence from agricultural and life science faculty at the 52 major US land grant universities, spanning 1989-2015, to examine faculty attitudes/preferences, tenure and promotion criteria, and funding sources and how the robust and stable alignment of these factors promoted both a continued emphasis on traditional scholarly activities and relatively little shift towards commercialization
 
-**[Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil](http://anapmelo.github.io/files/manuscript_MM.pdf)**, _with Mizuhiro Suzuki_ (under review)     
+<a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> **[Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil]**, _with Mizuhiro Suzuki_ (under review)     
 > We evaluate the relationship between temperature shocks and the performance of bureacracy. We study a program in Brazil that randomly allocated audit teams to municipalities all over the country and we find a positive effect of temperature on reported levels of corruption.
 > Download paper here
 
