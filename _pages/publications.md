@@ -17,13 +17,13 @@ author_profile: false
 **The Enduring Pursuit of Public Science at US Land Grant Universities**, _with Bradford L. Barham and Jeremy Foltz_ (under review)
 > This article exploits 4 waves of representative, random-sample survey evidence from agricultural and life science faculty at the 52 major US land grant universities, spanning 1989-2015, to examine faculty attitudes/preferences, tenure and promotion criteria, and funding sources and how the robust and stable alignment of these factors promoted both a continued emphasis on traditional scholarly activities and relatively little shift towards commercialization.
 
-<a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> **Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil**</a>, _with Mizuhiro Suzuki_ (under review)     
+<a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> **Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil**</a>, <a href="https://mizuhirosuzuki.github.io/" _with Mizuhiro Suzuki_</a> (under review)     
 > We evaluate the relationship between temperature shocks and the performance of bureacracy. We study a program in Brazil that randomly allocated audit teams to municipalities all over the country and we find a positive effect of temperature on reported levels of corruption.
 
 **Affirmative action, college access and major choice: Redistribution and opportunity for social mobility**      
 > This paper evaluates an affirmative action policy enacted at a flagshit univeristy in Brazil. The policy targets applicants from low-socioeconomic backgrounds, aiming to address the structural inequality in access to college. I find the policy resulted in strong redistributive effects, mostly towards selective fields. Targeted applicants also become much more likely to apply to a selective major. However, this behavior change partially results in strategic mistakes, with some applicants reaching too high, missing their chance to be accepted in college.
 
-**Temperature, Effort, and Achievement: evidence from a large-scale standardized exam in Brazil**, _with Mizuhiro Suzuki_    
+**Temperature, Effort, and Achievement: evidence from a large-scale standardized exam in Brazil**, <a href="https://mizuhirosuzuki.github.io/" _with Mizuhiro Suzuki_</a>   
 > We provide empirical evidence on how the exam stakes affect the sensitivity of performance to temperature. We explore the unique Brazilian context in which the stakes of a large-scale standardized exam change from relatively low to high. Using within-individual variations in exam scores and temperature across two exam days, we find a negative impact of high temperature on exam scores. The effects are non-linear, especially when the temperature increases to the high 30s. When we interact temperature with the proportion of universities in a locality using the national exam as the primary admission criteria, we find that the higher the stakes, the smaller the effects of temperature on exam performance.
       
 **Affirmative action and demand for schooling: evidence from nation-wide policies**, _with Ursula Mello_      
