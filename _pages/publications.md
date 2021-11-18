@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 # Published
-<a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo123177052.html"> Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities.</a>  (2021), with Bradford L. Barham and Jeremy Foltz. NBER Chapters, in: Economics of Research and Innovation in Agriculture, National Bureau of Economic Research, Inc.
+<a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo123177052.html"> **Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities**</a>  (2021), with Bradford L. Barham and Jeremy Foltz. NBER Chapters, in: Economics of Research and Innovation in Agriculture, National Bureau of Economic Research, Inc.
 <a href="https://www.nber.org/papers/w26688"> NBER Working Paper (2020) </a> 
 
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13014"> **Earnings, Wages, and Poverty Outcomes of US Farm and Low-Skill Workers** </a> (2020), with Bradford L. Barham and Thomas Hertz. _Applied Economic Perspectives & Policy_. 42: 307-334
