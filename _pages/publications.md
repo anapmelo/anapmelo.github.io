@@ -6,18 +6,18 @@ author_profile: false
 ---
 
 # Published
+<a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo123177052.html"> Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities.</a>  (2021), with Bradford L. Barham and Jeremy Foltz. NBER Chapters, in: Economics of Research and Innovation in Agriculture, National Bureau of Economic Research, Inc.
+<a href="https://www.nber.org/papers/w26688"> NBER Working Paper (2020) </a> 
+
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13014"> **Earnings, Wages, and Poverty Outcomes of US Farm and Low-Skill Workers** </a> (2020), with Bradford L. Barham and Thomas Hertz. _Applied Economic Perspectives & Policy_. 42: 307-334
 
 ---
 
 # Working Papers
-<a href="https://www.nber.org/papers/w26688"> **Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities**</a>, _with Bradford L. Barham and Jeremy Foltz_. NBER Working Paper No. 26688 (forthcoming)
-> This article examines the involvement of agricultural and life science faculty at U.S. land grant universities in two types of university-industry relations, academic engagement (sponsored research, industry collaborations, and presentations), academic commercialization (patenting, licensing, and start-ups), and how it relates to traditional academic scholarship.
-
-**The Enduring Pursuit of Public Science at US Land Grant Universities**, _with Bradford L. Barham and Jeremy Foltz_ (under review)
+**The Enduring Pursuit of Public Science at US Land Grant Universities**, _with Bradford L. Barham and Jeremy Foltz_ (Forthcoming)
 > This article exploits 4 waves of representative, random-sample survey evidence from agricultural and life science faculty at the 52 major US land grant universities, spanning 1989-2015, to examine faculty attitudes/preferences, tenure and promotion criteria, and funding sources and how the robust and stable alignment of these factors promoted both a continued emphasis on traditional scholarly activities and relatively little shift towards commercialization.
 
-<a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> **Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a> (under review)     
+<a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> **Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
 > We evaluate the relationship between temperature shocks and the performance of bureacracy. We study a program in Brazil that randomly allocated audit teams to municipalities all over the country and we find a positive effect of temperature on reported levels of corruption.
 
 <a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> **Temperature, Effort, and Achievement: evidence from a large-scale standardized exam in Brazil**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>   
