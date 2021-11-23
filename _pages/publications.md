@@ -11,11 +11,11 @@ author_profile: false
 
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/aepp.13014"> **Earnings, Wages, and Poverty Outcomes of US Farm and Low-Skill Workers** </a> (2020), with Bradford L. Barham and Thomas Hertz. _Applied Economic Perspectives & Policy_. 42: 307-334
 
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259997">**The Enduring Pursuit of Public Science at US Land Grant Universities**</a> (2021), with Bradford L. Barham and Jeremy Foltz. _PLoS ONE_. 16(11): e0259997.
+
 ---
 
 # Working Papers
-**The Enduring Pursuit of Public Science at US Land Grant Universities**, _with Bradford L. Barham and Jeremy Foltz_ (Forthcoming)
-> This article exploits 4 waves of representative, random-sample survey evidence from agricultural and life science faculty at the 52 major US land grant universities, spanning 1989-2015, to examine faculty attitudes/preferences, tenure and promotion criteria, and funding sources and how the robust and stable alignment of these factors promoted both a continued emphasis on traditional scholarly activities and relatively little shift towards commercialization.
 
 <a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> **Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
 > We evaluate the relationship between temperature shocks and the performance of bureacracy. We study a program in Brazil that randomly allocated audit teams to municipalities all over the country and we find a positive effect of temperature on reported levels of corruption.
