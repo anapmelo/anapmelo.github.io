@@ -17,7 +17,7 @@ author_profile: false
 
 # Working Papers
 
-<a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> **Temperature, Effort, and Achievement: evidence from a large-scale standardized exam in Brazil**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>  (under review)
+<a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> **Temperature, Effort, and Achievement**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>  (under review)
 > We provide empirical evidence on how the exam stakes affect the sensitivity of performance to temperature. We explore the unique Brazilian context in which the stakes of a large-scale standardized exam change from relatively low to high. Using within-individual variations in exam scores and temperature across two exam days, we find a negative impact of high temperature on exam scores. The effects are non-linear, especially when the temperature increases to the high 30s. When we interact temperature with the proportion of universities in a locality using the national exam as the primary admission criteria, we find that the higher the stakes, the smaller the effects of temperature on exam performance.
 
 <a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> **Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
