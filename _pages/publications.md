@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 # Published
-<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259997">**The Enduring Pursuit of Public Science at US Land Grant Universities**</a> (2021), with Bradford L. Barham and Jeremy Foltz. _PLoS ONE_. 16(11): e0259997.
+<a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259997">**The Enduring Pursuit of Public Science at US Land Grant Universities**</a> (2021), with Bradford L. Barham and Jeremy Foltz. _PLOS ONE_. 16(11): e0259997.
 
 <a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo123177052.html"> **Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities**</a>  (2021), with Bradford L. Barham and Jeremy Foltz. NBER Chapters, in: Economics of Research and Innovation in Agriculture, National Bureau of Economic Research, Inc.
 <a href="https://www.nber.org/papers/w26688"> NBER Working Paper</a> (2020)
@@ -17,7 +17,7 @@ author_profile: false
 
 # Working Papers
 
-<a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> **Temperature, Effort, and Achievement**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>  (under review)
+<a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> **Temperature, Effort, and Achievement**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
 > Our paper estimates the effects of temperature on achievement and provides the first empirical evidence on how exam stakes affect the sensitivity of exam performance to temperature. Using data on millions of exam takers in Brazil, we explore a unique context where the stakes of a large-scale standardized exam change from relatively low to high. We find that the higher the stakes, the smaller the effects of temperature on exam performance. Our results suggest that effort is an important channel: in a high-stakes environment, exam takers exert more effort, counterbalancing an otherwise adverse temperature effect.
 
 <a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> **Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
