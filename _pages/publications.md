@@ -17,7 +17,7 @@ author_profile: false
 
 # Working Papers
 
-<a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> **Temperature, Effort, and Achievement**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
+<a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> **Temperature, Effort, and Achievement**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a> [submitted]
 > Our paper estimates the effects of temperature on achievement and provides the first empirical evidence on how exam stakes affect the sensitivity of exam performance to temperature. Using data on millions of exam takers in Brazil, we explore a unique context where the stakes of a large-scale standardized exam change from relatively low to high. We find that the higher the stakes, the smaller the effects of temperature on exam performance. Our results suggest that effort is an important channel: in a high-stakes environment, exam takers exert more effort, counterbalancing an otherwise adverse temperature effect.
 
 <a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> **Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
