@@ -14,6 +14,8 @@ For the academic year 2023-24, I am a visiting scholar at the Center for Educati
 
 [CV](http://anapmelo.github.io/files/main_cv.pdf)
 
+Contact me at anapaula.melo@howard.edu or anamelo.econ@gmail.com
+
 <h2>Education</h2>
 
   * Ph.D., Ag. and Applied Economics, University of Wisconsin-Madison (2021)
