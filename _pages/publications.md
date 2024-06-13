@@ -17,7 +17,7 @@ author_profile: false
 
 # Working Papers
 
-<a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> **Affirmative action, college access and major choice** </a> [submitted]    
+<a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> **Affirmative action, college access and major choice** </a> [R&R]  
 > I study the effects of an affirmative action policy targeting low-socioeconomic status applicants at a flagship university in Brazil. Results show the quota-type affirmative action policy redistributed college seats towards targeted applicants, mainly by increasing their representation in selective, high-return majors. This gain in cross-field diversity happened with only a marginal decrease in the average achievement of the incoming cohort. The policy also reduced the gap in applications to selective majors between high and low socioeconomic status individuals by more than 50 percent. However, most of the effects on major-choice happened among individuals less likely to be accepted to a selective major, suggesting an increase in strategic mistakes in major choice. My findings contribute to our understanding of how affirmative action policies can mitigate the socioeconomic gap in both college attendance and field of study, but improvements in the admissions mechanism design remain necessary.
 
 <a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> **Temperature, Effort, and Achievement**</a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
