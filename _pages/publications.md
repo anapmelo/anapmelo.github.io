@@ -18,14 +18,10 @@ author_profile: false
 ## Working papers
 
 <a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> Affirmative action, college access and major choice </a> [R&R, Economics of Education Review]  
-> I study the effects of an affirmative action policy targeting low-socioeconomic status applicants at a flagship university in Brazil. Results show that the quota-type affirmative action policy redistributed college seats to targeted applicants, mainly by increasing their representation in selective, high-return majors. This gain in cross-field diversity happened with only a marginal decrease in the average achievement of the incoming cohort. The policy also reduced the gap in applications to selective majors between high and low-socioeconomic-status individuals by more than 50 percent. However, most of the effects on major choice happened among individuals less likely to be accepted to a selective major, suggesting an increase in strategic mistakes in major choice. My findings contribute to our understanding of how affirmative action policies can mitigate the socioeconomic gap in both college attendance and field of study, but improvements in the admissions mechanism design remain necessary.
 
 <a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> Temperature, Effort, and Achievement </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
-> Our paper estimates the effects of temperature on achievement and provides the first empirical evidence on how exam stakes affect the sensitivity of exam performance to temperature. Using data on millions of exam takers in Brazil, we explore a unique context where the stakes of a large-scale standardized exam change from relatively low to high. We find that the higher the stakes, the smaller the effects of temperature on exam performance. Our results suggest that effort is an important channel: in a high-stakes environment, exam takers exert more effort, counterbalancing an otherwise adverse temperature effect.
 
 <a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
-> Our paper estimates the impact of temperature on auditors’ work performance, measured by the likelihood with which auditors report corruption. We use
-data on hundreds of municipalities randomly audited in an anti-corruption program in Brazil. We find that auditors are more likely to report corruption if their fieldwork is conducted under higher temperatures. We discuss the potential mechanisms underlying our findings, which highlight important avenues for further research. Our results have implications for understanding the influence of external factors on essential government functions that impact social welfare.
 
 ## Select work in progress
 
