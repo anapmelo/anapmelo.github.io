@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the Economics Department at Howard University. I am an applied microeconomist researching topics in Economics of Education, Labor, and Development Economics, with an emphasis in socioeconomic, gender, and racial inequality.
 
-For the academic year 2023-24, I am a visiting scholar at the Center for Education Efficacy, Excellence, and Equity (E4) in the School of Education and Social Policy at Northwestern University.
+For the academic year 2023-24 and 2024-25, I will be a visiting scholar at the Center for Education Efficacy, Excellence, and Equity (E4) in the School of Education and Social Policy at Northwestern University.
 
 [CV](http://anapmelo.github.io/files/main_cv.pdf)
 
