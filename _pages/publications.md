@@ -33,6 +33,6 @@ Affirmative action and demand for schooling: evidence from nation-wide policies,
 
 AEARCTR-0012396: Mentorship networks and the early career outcomes of college-educated women, with _Ursula Mello and Maria Oaquim_
 
-# Policy briefs and reports
+## Policy briefs and reports
 
 <a href="https://e4.northwestern.edu/2024/06/27/how-digital-platforms-provide-individualized-learning-experiences-in-mathematics/"> How digital platforms provide individualized Learning Experiences in Mathematics across school settings, grades 1-5 </a> (with Anita Sundrani, Julia Turner, and Ofer Malamud). Evanston, IL: Center for Education Efficacy, Excellence, and Equity, Northwestern University.
