@@ -21,7 +21,7 @@ author_profile: false
 
 <a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> Temperature, Effort, and Achievement </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
 
-<a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
+<a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a> [Submitted]
 
 ## Select work in progress
 
