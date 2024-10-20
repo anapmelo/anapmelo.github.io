@@ -39,7 +39,7 @@ AEARCTR-0012396: Mentorship networks and the early career outcomes of college-ed
 
 _Peer-reviewed_
 
-<a href="https://t20brasil.org/en/pbs?nucleo_id=1/"> Reducing Ethnic and Racial Inequalities in Education </a> (2024), with Michael França, Mariana Andrade, and Filipi Nascimento (2024). _T20 Policy Brief_, Task Force 01: Fighting Inequalities, Poverty, and Hunger.
+<a href="https://t20brasil.org/en/pbs?nucleo_id=1/"> Reducing Ethnic and Racial Inequalities in Education </a> (2024), with Michael França, Mariana Andrade, and Filipi Nascimento. _T20 Policy Brief_, Task Force 01: Fighting Inequalities, Poverty, and Hunger.
 
 _Technical reports_
 
