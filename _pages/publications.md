@@ -38,7 +38,9 @@ AEARCTR-0012396: Mentorship networks and the early career outcomes of college-ed
 ## Policy briefs and reports
 
 _Peer-reviewed_
+
 <a href="https://t20brasil.org/en/pbs?nucleo_id=1/"> Reducing Ethnic and Racial Inequalities in Education (2024), with Michael França, Mariana Andrade, and Filipi Nascimento (2024). _T20 Policy Brief_, Task Force 01: Fighting Inequalities, Poverty, and Hunger.
 
 _Technical reports_
+
 <a href="https://e4.northwestern.edu/2024/06/27/how-digital-platforms-provide-individualized-learning-experiences-in-mathematics/"> How digital platforms provide individualized Learning Experiences in Mathematics across school settings, grades 1-5 </a> (with Anita Sundrani, Julia Turner, and Ofer Malamud). Evanston, IL: Center for Education Efficacy, Excellence, and Equity, Northwestern University.
