@@ -22,7 +22,7 @@ _Book chapters_
 
 ## Working papers
 
-<a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> Affirmative action, college access and major choice </a> [R&R, Economics of Education Review]  
+<a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> Affirmative action, college access and major choice </a> [R&R, _Economics of Education Review_]  
 
 <a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> Temperature, Effort, and Achievement </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
 
@@ -33,7 +33,7 @@ _Book chapters_
 Affirmative action and demand for schooling: evidence from nation-wide policies, _with Ursula Mello_
 
 AEARCTR-0012396: Mentorship networks and the early career outcomes of college-educated women, with _Ursula Mello and Maria Oaquim_ 
-[Pre-analysis plan: R&R, Journal of Development Economics via Pre-results Review]
+[Pre-analysis plan: R&R, _Journal of Development Economics_ via Pre-results Review]
 
 ## Policy briefs and reports
 
