@@ -33,7 +33,7 @@ _Book chapters_
 Affirmative action and demand for schooling: evidence from nation-wide policies, _with Ursula Mello_
 
 AEARCTR-0012396: Mentorship networks and the early career outcomes of college-educated women, with _Ursula Mello and Maria Oaquim_ 
-[Pre-analysis plan: R&R, _Journal of Development Economics_ via Pre-results Review]
+[Pre-analysis plan: _Conditionally Accepted_, _Journal of Development Economics_ via Pre-results Review]
 
 ## Policy briefs and reports
 
