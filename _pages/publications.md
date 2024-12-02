@@ -26,7 +26,7 @@ _Book chapters_
 
 <a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> Temperature, Effort, and Achievement </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
 
-## Select work in progress
+## Selected work in progress
 
 Affirmative action and demand for schooling: evidence from nation-wide policies, _with Ursula Mello_
 
