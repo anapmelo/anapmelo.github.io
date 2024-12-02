@@ -20,13 +20,11 @@ _Book chapters_
 
 ---
 
-## Working papers
+## Select working papers
 
 <a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> Affirmative action, college access and major choice </a> [R&R, _Economics of Education Review_]  
 
 <a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> Temperature, Effort, and Achievement </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
-
-<a href="http://anapmelo.github.io/files/manuscript_MM.pdf"> Temperature and Bureaucracy: empirical analysis on auditing reports in Brazil </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a> [Submitted]
 
 ## Select work in progress
 
