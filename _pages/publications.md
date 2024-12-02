@@ -20,7 +20,7 @@ _Book chapters_
 
 ---
 
-## Select working papers
+## Selected working papers
 
 <a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> Affirmative action, college access and major choice </a> [R&R, _Economics of Education Review_]  
 
