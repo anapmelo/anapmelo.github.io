@@ -24,7 +24,7 @@ _Book chapters_
 
 <a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> Affirmative action, college access and major choice </a> [R&R, _Economics of Education Review_]  
 
-<a href="http://anapmelo.github.io/files/manuscript_MM2.pdf"> Temperature, Effort, and Achievement </a>, <a href="https://mizuhirosuzuki.github.io/"> _with Mizuhiro Suzuki_</a>
+Temperature, Effort, and Achievement, _with Mizuhiro Suzuki_ _[new draft coming soon]_
 
 ## Selected work in progress
 
