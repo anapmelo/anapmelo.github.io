@@ -9,7 +9,7 @@ author_profile: false
 
 _Journal articles_
 
-<a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> Affirmative action, college access and major choice </a> (Forthcoming) _Economics of Education Review_
+<a href="http://anapmelo.github.io/files/manuscript_Melo.pdf"> Affirmative action, college access and major choice: Redistribution with strategic behavior </a> (Forthcoming) _Economics of Education Review_
 
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259997"> The Enduring Pursuit of Public Science at US Land Grant Universities </a> (2021), with Bradford L. Barham and Jeremy Foltz. _PLOS ONE_. 16(11): e0259997.
 
