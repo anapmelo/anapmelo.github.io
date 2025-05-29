@@ -9,7 +9,7 @@ author_profile: false
 
 _Journal articles_
 
-<a href="[[https://nam04.safelinks.protection.outlook.com/?url=https%3A%2F%2Fkwnsfk27.r.eu-west-1.awstrack.me%2FL0%2Fhttps%3A%252F%252Fauthors.elsevier.com%252Fa%252F1kcif%25257E1QCCILK%2F1%2F010201950bef109b-36fd8b8c-1e49-4d6c-b87f-01c0a9d131b3-000000%2FtF7ykRa3OPMyTR-JrLiNJN5EDYc%3D413&data=05%7C02%7Canapaula.melo%40howard.edu%7C566871802f4b4e89e99808dd4e182342%7C02ac0c07b75f46bf9b133630ba94bb69%7C0%7C0%7C638752587940881203%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=vchVqbQnI%2B1yuuNWrvNLxOHhVrBnoH0aYgFmvz0VEbU%3D&reserved=0](https://www.sciencedirect.com/science/article/pii/S0272775725000020)](https://www.sciencedirect.com/science/article/pii/S0272775725000020)"> Affirmative action, college access and major choice: Redistribution with strategic behavior </a> (Forthcoming) _Economics of Education Review_
+<a href="https://www.sciencedirect.com/science/article/pii/S0272775725000020"> Affirmative action, college access and major choice: Redistribution with strategic behavior </a> (Forthcoming) _Economics of Education Review_
 
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259997"> The Enduring Pursuit of Public Science at US Land Grant Universities </a> (2021), with Bradford L. Barham and Jeremy Foltz. _PLOS ONE_. 16(11): e0259997.
 
