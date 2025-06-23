@@ -20,6 +20,10 @@ _Book chapters_
 <a href="https://press.uchicago.edu/ucp/books/book/chicago/E/bo123177052.html"> Academic Engagement, Commercialization, and Scholarship: Empirical Evidence from Agricultural and Life Scientists at US Land Grant Universities </a>  (2021), with Bradford L. Barham and Jeremy Foltz. NBER Chapters, in: Economics of Research and Innovation in Agriculture, National Bureau of Economic Research, Inc.
 <a href="https://www.nber.org/papers/w26688"> NBER Working Paper</a> (2020)
 
+_Policy Briefs_
+
+<a href="https://t20brasil.org/en/pbs?nucleo_id=1/"> Reducing Ethnic and Racial Inequalities in Education </a> (2024), with Michael França, Mariana Andrade, and Filipi Nascimento. _T20 Policy Brief_, Task Force 01: Fighting Inequalities, Poverty, and Hunger.
+
 ---
 
 ## Selected working papers
@@ -34,11 +38,7 @@ Affirmative action and demand for schooling: evidence from nation-wide policies,
 AEARCTR-0012396: Mentorship networks and the early career outcomes of college-educated women, with _Ursula Mello and Maria Oaquim_ 
 [Pre-analysis plan: _Conditionally Accepted_, _Journal of Development Economics_ via Pre-results Review]
 
-## Policy briefs and reports
-
-_Peer-reviewed_
-
-<a href="https://t20brasil.org/en/pbs?nucleo_id=1/"> Reducing Ethnic and Racial Inequalities in Education </a> (2024), with Michael França, Mariana Andrade, and Filipi Nascimento. _T20 Policy Brief_, Task Force 01: Fighting Inequalities, Poverty, and Hunger.
+## Other policy briefs and reports
 
 _Technical reports_
 
