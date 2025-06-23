@@ -9,7 +9,7 @@ author_profile: false
 
 _Journal articles_
 
-<a href="https://www.sciencedirect.com/science/article/pii/S0272775725000020"> Affirmative action, college access and major choice: Redistribution with strategic behavior </a> (Forthcoming) _Economics of Education Review_
+<a href="https://www.sciencedirect.com/science/article/pii/S0272775725000020"> Affirmative action, college access and major choice: Redistribution with strategic behavior </a> (2025) _Economics of Education Review_ 205 (April): 102622
 
 <a href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0259997"> The Enduring Pursuit of Public Science at US Land Grant Universities </a> (2021), with Bradford L. Barham and Jeremy Foltz. _PLOS ONE_. 16(11): e0259997.
 
